@@ -1,7 +1,7 @@
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
-on:https://github.com/sanketjc2000/portfolio-website/new/main?filename=.github%2Fworkflows%2Fstatic.yml&workflow_template=pages%2Fstatic#
+on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]

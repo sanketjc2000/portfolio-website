@@ -1,7 +1,7 @@
 export const portfolioData = {
     personalInfo: {
         name: "Sanket Chavan",
-        role: "Backend / Cloud Engineer",
+        role: "Backend Engineer",
         summary: "Backend Engineer with 3.6 years of experience building scalable, cloud-native systems using Node.js, TypeScript, AWS, and Azure. Specialized in designing secure APIs, cloud architectures, and integrating AI-driven solutions using CopilotKit and LangGraph.",
         email: "sanketjc2000@gmail.com",
         linkedin: "https://www.linkedin.com/in/sanket-chavan-518a8914a/",
