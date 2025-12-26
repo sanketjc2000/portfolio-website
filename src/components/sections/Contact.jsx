@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Mail, Linkedin, MapPin, Clock, Send, MessageCircle, Zap } from 'lucide-react';
+import { Mail, Linkedin, MapPin, Send, MessageCircle, Zap } from 'lucide-react';
 import { Button } from '../ui/Button';
 import { portfolioData } from '../../data/portfolio';
 

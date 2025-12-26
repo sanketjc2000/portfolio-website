@@ -5,7 +5,7 @@ import { Button } from '../ui/Button';
 import { portfolioData } from '../../data/portfolio';
 
 const Hero = () => {
-    const { name, role, summary, resumeLink, email, linkedin } = portfolioData.personalInfo;
+    const { name, role, summary, email, linkedin } = portfolioData.personalInfo;
 
     // Animation variants
     const containerVariants = {
