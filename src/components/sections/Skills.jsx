@@ -9,7 +9,7 @@ const Skills = () => {
         { title: "Backend", skills: skills.backend, color: "from-blue-500 to-cyan-500", icon: "⚡" },
         { title: "Cloud", skills: skills.cloud, color: "from-violet-500 to-purple-500", icon: "☁️" },
         { title: "Databases", skills: skills.database, color: "from-emerald-500 to-teal-500", icon: "🗃️" },
-        { title: "AI & Tools", skills: [...skills.ai, ...skills.tools], color: "from-orange-500 to-pink-500", icon: "🤖" },
+        { title: "AI & Tools", skills: [...skills.ai], color: "from-orange-500 to-pink-500", icon: "🤖" },
     ];
 
     const containerVariants = {
